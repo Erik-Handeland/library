@@ -116,3 +116,5 @@ twitter.com##body:style(overflow: auto !important;)
 
 # Because plex still hasn't fixed the bug with the playbar not hiding in full screen
 app.plex.tv###plex > div.PlayerContainer-container-DtCwJl:nth-child(4) > div.Player-fullPlayerContainer-wBDz23 > div.AudioVideoFullPlayer-bottomBar-h224iE.AudioVideoFullPlayer-bar-ka0DgM.AudioVideoFullPlayer-bottomBarHidden-cXfDeS:last-child > div.BottomBar-bottomBar-hnsKzI > div.ControlsContainer-controlsContainer-txiwBZ
+
+reddit.com##article:has-text(/Trump/i)
